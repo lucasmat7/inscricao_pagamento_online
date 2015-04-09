@@ -23,8 +23,6 @@
 </head>
 
 
-<!-- --------------------------------body-------------------------------- -->
-
 
 <!-- da auto-submit no form para redirecionamento ao B!Cash !-->
 <body onload="document.createElement('form').submit.call(document.getElementById('myForm'))">
