@@ -1,5 +1,5 @@
 # Inscrição com pagamentos Online
-Sistema de ficha de inscrição com pagamento online através do B!Cash
+Ficha de inscrição com pagamento online através do B!Cash
 
 # ficha_inscricao.php
 Contém o formulario formatado com Bootstrap e API de CEP do correios, que retorna um JSON e completa os campos de endereço dependendo do CEP
